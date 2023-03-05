@@ -1,3 +1,3 @@
 # discord-bot
 Bot Discord
-no node_modules
+\nno node_modules
